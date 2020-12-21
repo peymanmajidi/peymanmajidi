@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Mahan Air EXpress ✈
 - 🌱 I’m currently learning **:::ROS**
 - 📫 How to reach: send email to [me@peymanmajidi.ir](mailto:me@peymanmajidi.ir)
-- 😄 Pronouns: Peyman /pay maan/
+- 😄 Pronunciation: Peyman /pay maan/
 
 Find My Projects here:
 - [Youtube](http://www.youtube.com/user/Peymanvideo)
