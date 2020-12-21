@@ -10,6 +10,5 @@ Here are some ideas to get you started:
 I've started my carrier officially in 2009. Most of my activities are in the field of logistics, intelligence, the Internet of Things, and automation.   
 I enjoy programming and would love to share that pleasure with others, so I decided to record and publish videos for starters focusing on "programming pleasure💖."
 You can take a look at my [Aparat page](https://www.aparat.com/peyman.majidi).   
-On this page you can also find the projects in which I participated (of course, the projects from which I allowed to publish the video).
 
 
