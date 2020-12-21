@@ -4,7 +4,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Mahan Air EXpress ✈
-- 🌱 I’m currently learning **:::ROS**
+- 🌱 I’m currently learning **⋮⋮⋮ROS**
 - 📫 How to reach: send email to [me@peymanmajidi.ir](mailto:me@peymanmajidi.ir)
 - 😄 Pronunciation: Peyman /pay maan/
 
