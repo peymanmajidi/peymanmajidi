@@ -4,9 +4,9 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Mahan Air EXpress ✈
-- 🌱 I’m currently learning **⋮⋮⋮ROS**
-- 📫 How to reach: send email to [me@peymanmajidi.ir](mailto:me@peymanmajidi.ir)
-- 😄 Pronunciation: Peyman /pay maan/
+- 🌱 I’m currently learning ⋮⋮⋮ROS
+- 📫 How to reach: my email address is me@peymanmajidi.ir
+- 😄 How to Pronunce my name: Peyman /peɪ mɑːn/
 
 Find My Projects here:
 - [Youtube](http://www.youtube.com/user/Peymanvideo) 🎥
