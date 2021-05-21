@@ -11,6 +11,37 @@ Here are some ideas to get you started:
 - 📫 How to reach: my email address is me@peymanmajidi.ir
 - 😄 How to Pronounce my name: Peyman /peɪ mɑːn/  
 
+Projects
+========
+
+| Project Title	                                       | Company                        | Description                                                                                                                                                                                                                                                                                                     |
+|------------------------------------------------------|--------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Auto Production and printing offside                 | Hamedan Traffic Control Center | If the car exceeds the speed limit, the license plate will be registered and a fine will be issued                                                                                                                                                                                                              |
+| Smart Archive Warehouse                              | Tilco                          | store and archive all kinds of folders and physical zoners, by removing corridors and deep storage                                                                                                                                                                                                              |
+| DWS System                                           | Mahan Air Express              | Parcel Dimension, Weighting and Scanning system(Profiler)                                                                                                                                                                                                                                                       |
+| Pedestrian bridges monitoring and maintenance system | Hamadan Municipality           | Monitoring and maintenance system of all pedestrian bridges in Hamadan, which are equipped with escalators and elevators; Each bridge is defined as a node in the system.                                                                                                                                       |
+| Smart agriculture IoT                                | Adaptive AgroTech              | By using IoT equipment, allows farmers to monitor soil moisture, temperature, light, and air pressure, and by analyzing data, increase crop productivity and prevent potential damage.                                                                                                                          |
+| Rota Parcel Sorter                                   | Mahan Air Express              | First Parcel Sorter Ever at Iran. Able to sort 3000 parcels per hour in a fully mechanized and automatic system.Weighing and dimensioning in motion Major Client are Digikala, Bamilo, Saipa and Iran Post.                                                                                                     |
+| Crossbelt Sorter                                     | Mahan Air Express              | The Second Great Sorting Center project in Iran Ability to sort 10K parcel per hour Crossbelt, The latest sorting and packing technology in the world Sorting is base on the destination, parcel delivery time, and placement in trailers via urban and traffic data. The first sorting center also made by us! |
+
+Teaching
+--------
+Teacher of [Shahid Jabarian University](https://p2-hamedan.tvu.ac.ir/fa/page/5439) of Hamadan Province, Web and Mobile Programming Courses
+
+Mentor
+------
+* Mentor of the first tourism programming event in Iran (Hackatourism 2020) at the invitation of Sharif University of Technology
+
+Video Blogging
+--------------
+I believe in open-source philosophy and would like to share his interest in programming with everyone. In this direction,published more than 100 videos with the status of programming and the latest technology on [YouTube](http://www.youtube.com/user/Peymanvideo), [Facebook](https://www.facebook.com/Peymantv), and [Apart](https://www.aparat.com/peyman.majidi) as a Vloger.
+
+
+Music
+------
+I'm also engaged in songwriting. So far released more than 10 pop [music tracks](https://wikiseda.org/Peyman+Majidi+Moein) as a songwriter. I attend the weekly meetings of the Song House of Tehran.
+
+
 Find My Projects here:
 - [Youtube](http://www.youtube.com/user/Peymanvideo) 🎥
 - [Aparat](https://www.aparat.com/peyman.majidi)  🎥
