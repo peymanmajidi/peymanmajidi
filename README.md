@@ -5,7 +5,7 @@ I am a *software engineer*;
 My primary programming languages are `C#` and `Python`. I enjoy coding and creating new worlds. I've started my carrier officially in <kbd>2009</kbd>. Most of my activities are in the field of logistics, intelligence, the Internet of Things, and automation. I enjoy programming and would <ins>love to share</ins> that pleasure with others, so I decided to record and publish videos for starters focusing on "programming pleasure".   
 - 🔭 I’m currently working on Mahan Air EXpress ✈
 - 🌱 I’m currently learning ⋮⋮⋮ROS
-- 📫 How to reach: my email address is me@peymanmajidi.ir
+- 📫 How to reach: me@peymanmajidi.ir
 - 😄 How to Pronounce my name: Peyman /peɪ mɑːn/  
 
 Projects
@@ -50,5 +50,12 @@ Support/Donate:
 My Social Medias:
 - [Stackoverflow](https://stackoverflow.com/users/4541097/peyman-majidi)
 - [Linkedin](http://www.linkedin.com/in/peyman-majidi-moein)
+- [Instagram](https://www.instagram.com/peymanmajidi.ir/)
+- [Facebook](https://www.facebook.com/Peymantv)
+
+Wikicommon:
+- [Gallery](https://commons.wikimedia.org/w/index.php?search=peyman+majidi+moein&title=Special:MediaSearch&go=Go&type=image)
+
+
 
 
