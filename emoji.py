@@ -1,4 +1,4 @@
-import pygame, sys
+import pygame, sys, os, random
 import pymunk
 
 # constants
@@ -9,24 +9,31 @@ WHITE = (255,255,255)
 BLACK = (0,0,0)
 GREEN = (0,255,0)
 EMOJI = pygame.image.load('emoji.png')
+
 GRAVITY = 250
 
-def create_apple(space,pos):
-    body = pymunk.Body(1,1, body_type= pymunk.Body.DYNAMIC)
-    body.position = pos
-    shape = pymunk.Circle(body, int(EMOJI.get_height()/2))
-    space.add(body, shape)
-    return shape
-
-
-def draw_apples(apples):
-    for apple in apples:
-        x = int(apple.body.position.x)
-        y = int(apple.body.position.y)
-        # pygame.draw.circle(screen, RED,  (x,y),80)
-        emoji_rec = EMOJI.get_rect(center= (x,y))
-        screen.blit(EMOJI, emoji_rec)
-        
+class Emoji:
+    global space
+    global screen
+    def __init__(self, pos):
+        self.image = get_random_emoji_images()
+        self.body = pymunk.Body(1,1, body_type= pymunk.Body.DYNAMIC)
+        self.body.position = pos
+        self.shape = pymunk.Circle(self.body, int(self.image.get_height()/2))
+        space.add(self.body, self.shape)
+    def draw(self):
+        x = int(self.body.position.x)
+        y = int(self.body.position.y)
+        emoji_rec = self.image.get_rect(center= (x,y))
+        screen.blit(self.image, emoji_rec)
+           
+def get_random_emoji_images():
+    path = './emojis/'
+    images = os.listdir(path)
+    rand = random.randint(0,len(images)-1)
+    return pygame.image.load(path+"/"+ images[rand])
+    
+    
         
 def object_circle(space,pos, size):
     body = pymunk.Body(body_type=pymunk.Body.STATIC)
@@ -44,7 +51,6 @@ def object_rect(space,pos, width, height):
     return shape
 
      
-
 def draw_playground(circles, rects):
     for circle in circles:
         x = int(circle.body.position.x)
@@ -66,15 +72,14 @@ pygame.init()
 screen = pygame.display.set_mode(SCREEN_SIZE)
 clock = pygame.time.Clock()
 
-apples = []
-# apples.append(create_apple(space, (100, 10)))
+emojis = []
 
 circles = []
 circles.append(object_circle(space,(500+5,500-5),100))
 circles.append(object_circle(space,(150,700),200))
 
 rects = []
-# rects.append(object_rect(space, (0,600), 800, 100))
+rects.append(object_rect(space, (0,600), 800, 100))
 
 
 
@@ -88,14 +93,17 @@ while True:
             sys.exit()
         
         if event.type == pygame.MOUSEBUTTONDOWN:
-            apples.append(create_apple(space, event.pos))
-            
+            emojis.append(Emoji(pos= event.pos))
+           
             
             
     # while body   
     screen.fill((217,217,217))
     space.step(1/50)
-    draw_apples(apples)
+    
+    for emoji in emojis:
+        emoji.draw()
+
     draw_playground(circles, rects)
     
     pygame.display.update()
