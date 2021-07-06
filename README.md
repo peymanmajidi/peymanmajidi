@@ -54,7 +54,7 @@ My Social Medias:
 - [Facebook](https://www.facebook.com/Peymantv)
 
 Wikicommon:
-- [Gallery](https://commons.wikimedia.org/w/index.php?search=peyman+majidi+moein&title=Special:MediaSearch&go=Go&type=image)
+- [Gallery](https://commons.wikimedia.org/w/index.php?search=Peyman+Majidi+&title=Special:MediaSearch&go=Go&type=image)
 
 
 
