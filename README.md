@@ -2,7 +2,7 @@
 <img align="left" width="300"  src="3d_compressed.gif">
 
 I am a *software engineer*;            
-My primary programming languages are `C#` and `Python`. I enjoy coding and creating `new World();` I've started my carrier officially in <kbd>2009</kbd>. Most of my activities are in the field of logistics, intelligence, the Internet of Things, and automation. I enjoy programming and would <ins>love to share</ins> that pleasure with others, so I decided to record and publish videos for starters focusing on "programming pleasure".   
+My primary programming languages are `C#` and `Python`. I enjoy coding and creating `new World();` I've started my carrier officially in <kbd>2009</kbd>. Most of my activities are in the field of logistics, intelligence, the Internet of Things, and automation. I enjoy programming and would ❤<ins>love to share</ins> that pleasure with others, so I decided to record and publish videos for starters focusing on "programming pleasure".    
 - 🔭 I’m currently working on Mahan Air EXpress ✈
 - 🌱 I’m currently learning ⋮⋮⋮ROS
 - 📫 How to reach: me@peymanmajidi.ir
