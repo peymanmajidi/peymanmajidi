@@ -60,7 +60,7 @@ Wikicommon:
 - [Gallery](https://commons.wikimedia.org/w/index.php?search=Peyman+Majidi+&title=Special:MediaSearch&go=Go&type=image)
 
 Logistics resume:
-- [Read In Persian](./logistics/README.md)
+- [Read In Persian / رزومه من در لجستیک به فارسی](./logistics/README.md)
 
 
 
