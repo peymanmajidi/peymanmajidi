@@ -9,12 +9,10 @@ My primary programming languages are `C#` and `Python`. I enjoy coding and creat
 - 😄 How to Pronounce my name: Peyman /peɪ mɑːn/ 
 
 
-[رزومه من در لجستیک به فارسی](./logistics/README.md)
-
 Projects
 ========
 
-| Project Title	                                       | Company                        | Description                                                                                                                                                                                                                                                                                                     |
+| Project Title	 | Company | Description                                                                                                                                                                                                                                                                                                     |
 |------------------------------------------------------|--------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Auto Production and printing offside                 | Hamedan Traffic Control Center | If the car exceeds the speed limit, the license plate will be registered and a fine will be issued                                                                                                                                                                                                              |
 | Smart Archive Warehouse                              | Tilco                          | store and archive all kinds of folders and physical zoners, by removing corridors and deep storage                                                                                                                                                                                                              |
