@@ -6,7 +6,10 @@ My primary programming languages are `C#` and `Python`. I enjoy coding and creat
 - 🔭 I’m currently working on Mahan Air EXpress ✈
 - 🌱 I’m currently learning ⋮⋮⋮ROS
 - 📫 How to reach: me@peymanmajidi.ir
-- 😄 How to Pronounce my name: Peyman /peɪ mɑːn/  
+- 😄 How to Pronounce my name: Peyman /peɪ mɑːn/ 
+
+
+[رزومه من در لجستیک به فارسی](./logistics/README.md)
 
 Projects
 ========
