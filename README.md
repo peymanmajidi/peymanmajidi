@@ -59,6 +59,10 @@ My Social Medias:
 Wikicommon:
 - [Gallery](https://commons.wikimedia.org/w/index.php?search=Peyman+Majidi+&title=Special:MediaSearch&go=Go&type=image)
 
+Logistics resume:
+- [Read In Persian](./logistics/README.md)
+
+
 
 
 
